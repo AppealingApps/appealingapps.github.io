@@ -7,11 +7,11 @@ Rainy Skies can display some of your personal information (your location) within
 
 If you e-mail me for support, I have access to your e-mail address and any information you include in your e-mail. No other personal data leaves your device. 
 
-I collect anonymous telemetry data about your usage of the application. No information will ever be linked back to you or your personal information. This anonymous data is shared with my telemetry provider ([TelemetryDeck](https://telemetrydeck.com/privacy/))
+I collect anonymous telemetry data about your usage of the application. No information will ever be linked back to you or your personal information. This anonymous data is shared with my telemetry provider ([TelemetryDeck](https://telemetrydeck.com/privacy/)).
 
-If you sign-up for a Rainy Skies subscription, additional non-personally identifiable data will be kept. Your billing information, address, and name are all maintained by the App Store and are not visible to me. I will simply get information about whether or not you have purchased a subscription, the term you signed up for and when it is due to expire. This is all made available to me in an anonymous fashion. This anonymous data is also shared with my purchase provider ([RevenueCat](https://www.revenuecat.com/dpa)).
+Additional non-personally identifiable data will be kept if you sign-up for a Rainy Skies subscription. Your billing information, address, and name are all maintained by the App Store and are not visible to me. I will get information about whether or not you have purchased a subscription, the term you signed up for, and when it is due to expire. This is all made available to me in an anonymous fashion. This anonymous data is also shared with my purchase provider ([RevenueCat](https://www.revenuecat.com/dpa)).
 
-## Personally-Identifying Information
+## Personally Identifying Information
 Rainy Skies does not gather or transmit any Personally-Identifying Information outside of your local device. 
 
 ## Business Transfers
@@ -23,4 +23,4 @@ Although most changes are likely to be minor, Rainy Skies may change its Privacy
 ## Indemnity
 You hereby indemnify us and undertake to keep us indemnified against any losses, damages, costs, liabilities and expenses (including, without limitation, legal expenses and any amounts paid by us to a third party in settlement of a claim or dispute on the advice of our legal advisers) incurred or suffered by us arising out of use of this app or any breach by you of any provision of these terms of use, or arising out of any claim that you have breached any provision of these terms of use.
 
-Updated: August 11, 2023 by Joel Fischer.
+Updated: August 11, 2023, by Joel Fischer.
