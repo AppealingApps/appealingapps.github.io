@@ -1,7 +1,3 @@
-layout: page
-title: "Rainy Skies Privacy Policy"
-permalink: /rainy-skies-privacy
-
 # Rainy Skies Privacy Policy
 Your privacy is critically important to us. Because I don't need to know any personal information, I don't collect any personal information. Rainy Skies is designed from the ground up to preserve your privacy.
 
